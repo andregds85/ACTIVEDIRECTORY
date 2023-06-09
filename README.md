@@ -31,5 +31,28 @@ https://www.youtube.com/watch?v=pqwoSevBMlI
 🗄 #008_ Ingressando o Microsoft Windows Server no Domínio do UCS Univention Core Free 5.0
 https://www.youtube.com/watch?v=NzmytmKLWq0
 
+🗄 #009_ Ingressando o MacOS Catalina 10.15 no Domínio do UCS Univention Core Free 5.0
+https://www.youtube.com/watch?v=_Dr8qf-Xhdc
+
+🗄 #010_ Ingressando o Linux Desktop no Domínio do UCS Univention Core Free 5.0
+https://www.youtube.com/watch?v=Q1TsFQgH-bo
+
+🗄 #011_ Ingressando o Linux Server no Domínio do UCS Univention Core Free 5.0
+https://www.youtube.com/watch?v=lK3fZ2G2OMA
+
+🗄 #012_ Instalando o RSAT no Windows 10 do UCS Univention Core Free 5.0
+https://www.youtube.com/watch?v=Jb6GYmmlinM
+
+🗄 #013_ Instalando o Nó de Domínio Backup do UCS Univention Core Free 5.0
+https://www.youtube.com/watch?v=N3T7g8i9YRg
+
+🗄 #014_ Instalando o Nó de Domínio Réplica do UCS Univention Core Free 5.0
+https://www.youtube.com/watch?v=roBAQU0FTG8
+
+🗄 #015_ Instalando o Nó Gerenciado do UCS Univention Core Free 5.0
+https://www.youtube.com/watch?v=ph5vFmySGpk
+
+
+
 
 
